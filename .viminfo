@@ -1,0 +1,68 @@
+# Ce fichier viminfo a été généré par Vim 8.0.
+# Vous pouvez l'éditer, mais soyez prudent.
+
+# Viminfo version
+|1,4
+
+# 'encoding' dans lequel ce fichier a été écrit
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# Historique ligne de commande (chronologie décroissante) :
+:q!
+|2,0,1547298821,,"q!"
+:q
+|2,0,1547298810,,"q"
+:w
+|2,0,1547298796,,"w"
+:ls -hartl
+|2,0,1547298778,,"ls -hartl"
+:lr
+|2,0,1547298772,,"lr"
+:ls - hartl
+|2,0,1547298760,,"ls - hartl"
+:.q!
+|2,0,1547298569,,".q!"
+
+# Historique chaîne de recherche (chronologie décroissante) :
+
+# Historique expression (chronologie décroissante) :
+
+# Historique ligne de saisie (chronologie décroissante) :
+
+# Historique Ligne de débogage (chronologie décroissante) :
+
+# Registres :
+"a	CHAR	0
+	!
+|3,0,10,0,1,0,1547298188,"!"
+
+# Marques dans le fichier :
+'0  5  0  ~/.bash_profile
+|4,48,5,0,1547298569,"~/.bash_profile"
+
+# Liste de sauts (le plus récent en premier) :
+-'  5  0  ~/.bash_profile
+|4,39,5,0,1547298569,"~/.bash_profile"
+-'  5  0  ~/.bash_profile
+|4,39,5,0,1547298569,"~/.bash_profile"
+-'  1  0  ~/.bash_profile
+|4,39,1,0,1547298286,"~/.bash_profile"
+-'  1  0  ~/.bash_profile
+|4,39,1,0,1547298286,"~/.bash_profile"
+
+# Historique des marques dans les fichiers (les plus récentes en premier) :
+
+> ~/.bash_profile
+	*	1547298566	0
+	"	5	0
+	^	5	0
+	.	6	0
+	+	4	79
+	+	5	0
+	+	7	0
+	+	8	0
+	+	7	0
+	+	6	0

@@ -1,0 +1,150 @@
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting XAUTHORITY=/home/douma/.Xauthority
+dbus-update-activation-environment: setting GTK_MODULES=gail:atk-bridge
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting LANG=fr_FR.UTF-8
+dbus-update-activation-environment: setting GDM_LANG=fr_FR
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting COMPIZ_CONFIG_PROFILE=mate
+dbus-update-activation-environment: setting MANDATORY_PATH=/usr/share/gconf/mate.mandatory.path
+dbus-update-activation-environment: setting XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/douma
+dbus-update-activation-environment: setting USER=douma
+dbus-update-activation-environment: setting DESKTOP_SESSION=mate
+dbus-update-activation-environment: setting DEFAULTS_PATH=/usr/share/gconf/mate.default.path
+dbus-update-activation-environment: setting PWD=/home/douma
+dbus-update-activation-environment: setting HOME=/home/douma
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting XDG_SESSION_TYPE=x11
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share/mate:/home/douma/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share:/usr/share
+dbus-update-activation-environment: setting XDG_SESSION_DESKTOP=mate
+dbus-update-activation-environment: setting GTK_MODULES=gail:atk-bridge
+dbus-update-activation-environment: setting SHELL=/bin/bash
+dbus-update-activation-environment: setting XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0
+dbus-update-activation-environment: setting IM_CONFIG_PHASE=1
+dbus-update-activation-environment: setting XDG_CURRENT_DESKTOP=MATE
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting SHLVL=1
+dbus-update-activation-environment: setting LANGUAGE=fr_FR
+dbus-update-activation-environment: setting GDMSESSION=mate
+dbus-update-activation-environment: setting LOGNAME=douma
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting XDG_RUNTIME_DIR=/run/user/1000
+dbus-update-activation-environment: setting XAUTHORITY=/home/douma/.Xauthority
+dbus-update-activation-environment: setting XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0
+dbus-update-activation-environment: setting XDG_CONFIG_DIRS=/etc/xdg/xdg-mate:/etc/xdg
+dbus-update-activation-environment: setting PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games
+dbus-update-activation-environment: setting _=/usr/bin/dbus-update-activation-environment
+** Message: 13:12:34.502: couldn't access control socket: /run/user/1000/keyring/control: Aucun fichier ou dossier de ce type
+mate-session[1069]: WARNING: Unable to find provider '' of required component 'dock'
+Avertissement du gestionnaire de fenêtres : Log level 16: XPresent is not compatible with your current system configuration.
+
+(nm-applet:1790): Gtk-WARNING **: 13:12:43.556: Can't set a parent on widget which has a parent
+
+(nm-applet:1790): Gdk-CRITICAL **: 13:12:43.707: gdk_window_thaw_toplevel_updates: assertion 'window->update_and_descendants_freeze_count > 0' failed
+
+(mate-terminal:1935): GLib-GIO-WARNING **: 13:12:58.363: Failed to parse translated string 'Terminal' for key 'title' in schema 'org.mate.terminal.profile': 0-1:unknown keyword
+
+(mate-terminal:1935): GLib-GIO-WARNING **: 13:12:58.363: Using untranslated default instead.
+
+(mate-terminal:1935): GLib-GIO-WARNING **: 13:12:58.364: Failed to parse translated string '[UTF-8,current,ISO-8859-15,ISO-8859-1]' for key 'active-encodings' in schema 'org.mate.terminal.global': 1-2:unknown keyword
+
+(mate-terminal:1935): GLib-GIO-WARNING **: 13:12:58.364: Using untranslated default instead.
+
+(mate-terminal:1935): GLib-GIO-WARNING **: 13:12:58.779: Failed to parse translated string '[UTF-8,current,ISO-8859-15,ISO-8859-1]' for key 'active-encodings' in schema 'org.mate.terminal.global': 1-2:unknown keyword
+
+(mate-terminal:1935): GLib-GIO-WARNING **: 13:12:58.779: Using untranslated default instead.
+
+(caja:1697): Gtk-CRITICAL **: 13:23:17.810: gtk_container_foreach: assertion 'GTK_IS_CONTAINER (container)' failed
+
+(caja:1697): Gtk-CRITICAL **: 13:23:17.811: gtk_container_foreach: assertion 'GTK_IS_CONTAINER (container)' failed
+
+(caja:1697): Gtk-CRITICAL **: 13:23:17.811: gtk_container_foreach: assertion 'GTK_IS_CONTAINER (container)' failed
+
+(caja:1697): Gtk-CRITICAL **: 13:23:17.811: gtk_container_foreach: assertion 'GTK_IS_CONTAINER (container)' failed
+
+(caja:1697): Gtk-CRITICAL **: 13:23:17.811: gtk_container_foreach: assertion 'GTK_IS_CONTAINER (container)' failed
+
+(caja:1697): Gtk-CRITICAL **: 13:23:17.811: gtk_container_foreach: assertion 'GTK_IS_CONTAINER (container)' failed
+
+(caja:1697): Gtk-CRITICAL **: 13:25:13.934: gtk_container_foreach: assertion 'GTK_IS_CONTAINER (container)' failed
+
+(caja:1697): Gtk-CRITICAL **: 13:25:13.935: gtk_container_foreach: assertion 'GTK_IS_CONTAINER (container)' failed
+
+(caja:1697): Gtk-CRITICAL **: 13:25:13.935: gtk_container_foreach: assertion 'GTK_IS_CONTAINER (container)' failed
+
+(caja:1697): Gtk-CRITICAL **: 13:25:13.935: gtk_container_foreach: assertion 'GTK_IS_CONTAINER (container)' failed
+
+(caja:1697): Gtk-CRITICAL **: 13:25:13.935: gtk_container_foreach: assertion 'GTK_IS_CONTAINER (container)' failed
+
+(caja:1697): Gtk-CRITICAL **: 13:25:13.935: gtk_container_foreach: assertion 'GTK_IS_CONTAINER (container)' failed
+
+(nm-applet:1790): Gtk-CRITICAL **: 13:27:41.683: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1790): Gtk-CRITICAL **: 13:27:41.684: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1790): Gtk-WARNING **: 13:27:41.700: Can't set a parent on widget which has a parent
+
+(nm-applet:1790): Gtk-CRITICAL **: 13:32:21.216: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1790): Gtk-CRITICAL **: 13:32:21.217: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1790): Gtk-WARNING **: 13:32:21.224: Can't set a parent on widget which has a parent
+
+(mate-screensaver:1791): GLib-CRITICAL **: 13:37:10.459: Source ID 32 was not found when attempting to remove it
+
+(mate-screensaver:1791): GLib-CRITICAL **: 13:46:23.834: Source ID 257 was not found when attempting to remove it
+
+(mate-terminal:5531): GLib-GIO-WARNING **: 14:03:14.148: Failed to parse translated string 'Terminal' for key 'title' in schema 'org.mate.terminal.profile': 0-1:unknown keyword
+
+(mate-terminal:5531): GLib-GIO-WARNING **: 14:03:14.151: Using untranslated default instead.
+
+(mate-terminal:5531): GLib-GIO-WARNING **: 14:03:14.151: Failed to parse translated string '[UTF-8,current,ISO-8859-15,ISO-8859-1]' for key 'active-encodings' in schema 'org.mate.terminal.global': 1-2:unknown keyword
+
+(mate-terminal:5531): GLib-GIO-WARNING **: 14:03:14.151: Using untranslated default instead.
+
+(mate-terminal:5531): GLib-GIO-WARNING **: 14:03:14.318: Failed to parse translated string '[UTF-8,current,ISO-8859-15,ISO-8859-1]' for key 'active-encodings' in schema 'org.mate.terminal.global': 1-2:unknown keyword
+
+(mate-terminal:5531): GLib-GIO-WARNING **: 14:03:14.318: Using untranslated default instead.
+
+(mate-terminal:5531): GLib-GIO-WARNING **: 14:03:14.319: Failed to parse translated string '[UTF-8,current,ISO-8859-15,ISO-8859-1]' for key 'active-encodings' in schema 'org.mate.terminal.global': 1-2:unknown keyword
+
+(mate-terminal:5531): GLib-GIO-WARNING **: 14:03:14.319: Using untranslated default instead.
+
+(mate-terminal:5531): GLib-GIO-WARNING **: 14:03:14.319: Failed to parse translated string '[UTF-8,current,ISO-8859-15,ISO-8859-1]' for key 'active-encodings' in schema 'org.mate.terminal.global': 1-2:unknown keyword
+
+(mate-terminal:5531): GLib-GIO-WARNING **: 14:03:14.319: Using untranslated default instead.
+
+(mate-terminal:5531): GLib-GIO-WARNING **: 14:03:14.319: Failed to parse translated string '[UTF-8,current,ISO-8859-15,ISO-8859-1]' for key 'active-encodings' in schema 'org.mate.terminal.global': 1-2:unknown keyword
+
+(mate-terminal:5531): GLib-GIO-WARNING **: 14:03:14.319: Using untranslated default instead.
+
+(mate-terminal:5531): GLib-GIO-WARNING **: 14:03:14.320: Failed to parse translated string '[UTF-8,current,ISO-8859-15,ISO-8859-1]' for key 'active-encodings' in schema 'org.mate.terminal.global': 1-2:unknown keyword
+
+(mate-terminal:5531): GLib-GIO-WARNING **: 14:03:14.320: Using untranslated default instead.
+
+(mate-terminal:5531): GLib-GIO-WARNING **: 14:03:14.321: Failed to parse translated string '[UTF-8,current,ISO-8859-15,ISO-8859-1]' for key 'active-encodings' in schema 'org.mate.terminal.global': 1-2:unknown keyword
+
+(mate-terminal:5531): GLib-GIO-WARNING **: 14:03:14.321: Using untranslated default instead.
+
+(mate-terminal:5552): GLib-GIO-WARNING **: 14:04:12.457: Failed to parse translated string 'Terminal' for key 'title' in schema 'org.mate.terminal.profile': 0-1:unknown keyword
+
+(mate-terminal:5552): GLib-GIO-WARNING **: 14:04:12.458: Using untranslated default instead.
+
+(mate-terminal:5552): GLib-GIO-WARNING **: 14:04:12.458: Failed to parse translated string '[UTF-8,current,ISO-8859-15,ISO-8859-1]' for key 'active-encodings' in schema 'org.mate.terminal.global': 1-2:unknown keyword
+
+(mate-terminal:5552): GLib-GIO-WARNING **: 14:04:12.458: Using untranslated default instead.
+
+(mate-screensaver:1791): GLib-CRITICAL **: 14:18:41.305: Source ID 470 was not found when attempting to remove it
+
+(caja:1697): Gtk-CRITICAL **: 14:21:42.095: gtk_container_foreach: assertion 'GTK_IS_CONTAINER (container)' failed
+
+(caja:1697): Gtk-CRITICAL **: 14:21:42.096: gtk_container_foreach: assertion 'GTK_IS_CONTAINER (container)' failed
+
+(caja:1697): Gtk-CRITICAL **: 14:21:42.096: gtk_container_foreach: assertion 'GTK_IS_CONTAINER (container)' failed
+
+(caja:1697): Gtk-CRITICAL **: 14:21:42.097: gtk_container_foreach: assertion 'GTK_IS_CONTAINER (container)' failed
+
+(caja:1697): Gtk-CRITICAL **: 14:21:42.097: gtk_container_foreach: assertion 'GTK_IS_CONTAINER (container)' failed
+
+(caja:1697): Gtk-CRITICAL **: 14:21:42.097: gtk_container_foreach: assertion 'GTK_IS_CONTAINER (container)' failed

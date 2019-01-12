@@ -1,0 +1,259 @@
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting XAUTHORITY=/home/douma/.Xauthority
+dbus-update-activation-environment: setting GTK_MODULES=gail:atk-bridge
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting LANG=fr_FR.UTF-8
+dbus-update-activation-environment: setting GDM_LANG=fr_FR
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting COMPIZ_CONFIG_PROFILE=mate
+dbus-update-activation-environment: setting MANDATORY_PATH=/usr/share/gconf/mate.mandatory.path
+dbus-update-activation-environment: setting XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/douma
+dbus-update-activation-environment: setting USER=douma
+dbus-update-activation-environment: setting DESKTOP_SESSION=mate
+dbus-update-activation-environment: setting DEFAULTS_PATH=/usr/share/gconf/mate.default.path
+dbus-update-activation-environment: setting PWD=/home/douma
+dbus-update-activation-environment: setting HOME=/home/douma
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting XDG_SESSION_TYPE=x11
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share/mate:/home/douma/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share:/usr/share
+dbus-update-activation-environment: setting XDG_SESSION_DESKTOP=mate
+dbus-update-activation-environment: setting GTK_MODULES=gail:atk-bridge
+dbus-update-activation-environment: setting SHELL=/bin/bash
+dbus-update-activation-environment: setting XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0
+dbus-update-activation-environment: setting IM_CONFIG_PHASE=1
+dbus-update-activation-environment: setting XDG_CURRENT_DESKTOP=MATE
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting SHLVL=1
+dbus-update-activation-environment: setting LANGUAGE=fr_FR
+dbus-update-activation-environment: setting GDMSESSION=mate
+dbus-update-activation-environment: setting LOGNAME=douma
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting XDG_RUNTIME_DIR=/run/user/1000
+dbus-update-activation-environment: setting XAUTHORITY=/home/douma/.Xauthority
+dbus-update-activation-environment: setting XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0
+dbus-update-activation-environment: setting XDG_CONFIG_DIRS=/etc/xdg/xdg-mate:/etc/xdg
+dbus-update-activation-environment: setting PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games
+dbus-update-activation-environment: setting _=/usr/bin/dbus-update-activation-environment
+** Message: 11:15:37.873: couldn't access control socket: /run/user/1000/keyring/control: Aucun fichier ou dossier de ce type
+mate-session[1032]: WARNING: Unable to find provider '' of required component 'dock'
+Avertissement du gestionnaire de fenêtres : Log level 16: XPresent is not compatible with your current system configuration.
+
+(nm-applet:2098): Gtk-WARNING **: 10:15:52.639: Can't set a parent on widget which has a parent
+
+(nm-applet:2098): Gdk-CRITICAL **: 10:15:52.920: gdk_window_thaw_toplevel_updates: assertion 'window->update_and_descendants_freeze_count > 0' failed
+Avertissement du gestionnaire de fenêtres : Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x1c00018 (mintMenu.p)
+Avertissement du gestionnaire de fenêtres : meta_window_activate called by a pager with a 0 timestamp; the pager needs to be fixed.
+Avertissement du gestionnaire de fenêtres : Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x1c00018 (mintMenu.p)
+Avertissement du gestionnaire de fenêtres : meta_window_activate called by a pager with a 0 timestamp; the pager needs to be fixed.
+
+(mate-terminal:2725): GLib-GIO-WARNING **: 10:18:07.708: Failed to parse translated string 'Terminal' for key 'title' in schema 'org.mate.terminal.profile': 0-1:unknown keyword
+
+(mate-terminal:2725): GLib-GIO-WARNING **: 10:18:07.708: Using untranslated default instead.
+
+(mate-terminal:2725): GLib-GIO-WARNING **: 10:18:07.709: Failed to parse translated string '[UTF-8,current,ISO-8859-15,ISO-8859-1]' for key 'active-encodings' in schema 'org.mate.terminal.global': 1-2:unknown keyword
+
+(mate-terminal:2725): GLib-GIO-WARNING **: 10:18:07.709: Using untranslated default instead.
+
+(mate-terminal:2725): GLib-GIO-WARNING **: 10:18:08.009: Failed to parse translated string '[UTF-8,current,ISO-8859-15,ISO-8859-1]' for key 'active-encodings' in schema 'org.mate.terminal.global': 1-2:unknown keyword
+
+(mate-terminal:2725): GLib-GIO-WARNING **: 10:18:08.009: Using untranslated default instead.
+
+(mate-terminal:2725): GLib-GIO-WARNING **: 10:18:08.011: Failed to parse translated string '[UTF-8,current,ISO-8859-15,ISO-8859-1]' for key 'active-encodings' in schema 'org.mate.terminal.global': 1-2:unknown keyword
+
+(mate-terminal:2725): GLib-GIO-WARNING **: 10:18:08.011: Using untranslated default instead.
+
+(mate-terminal:2725): GLib-GIO-WARNING **: 10:18:08.011: Failed to parse translated string '[UTF-8,current,ISO-8859-15,ISO-8859-1]' for key 'active-encodings' in schema 'org.mate.terminal.global': 1-2:unknown keyword
+
+(mate-terminal:2725): GLib-GIO-WARNING **: 10:18:08.011: Using untranslated default instead.
+
+(mate-terminal:2725): GLib-GIO-WARNING **: 10:18:08.012: Failed to parse translated string '[UTF-8,current,ISO-8859-15,ISO-8859-1]' for key 'active-encodings' in schema 'org.mate.terminal.global': 1-2:unknown keyword
+
+(mate-terminal:2725): GLib-GIO-WARNING **: 10:18:08.016: Using untranslated default instead.
+
+(mate-terminal:2725): GLib-GIO-WARNING **: 10:18:08.017: Failed to parse translated string '[UTF-8,current,ISO-8859-15,ISO-8859-1]' for key 'active-encodings' in schema 'org.mate.terminal.global': 1-2:unknown keyword
+
+(mate-terminal:2725): GLib-GIO-WARNING **: 10:18:08.017: Using untranslated default instead.
+
+(mate-terminal:2812): GLib-GIO-WARNING **: 10:19:01.825: Failed to parse translated string 'Terminal' for key 'title' in schema 'org.mate.terminal.profile': 0-1:unknown keyword
+
+(mate-terminal:2812): GLib-GIO-WARNING **: 10:19:01.825: Using untranslated default instead.
+
+(mate-terminal:2812): GLib-GIO-WARNING **: 10:19:01.825: Failed to parse translated string '[UTF-8,current,ISO-8859-15,ISO-8859-1]' for key 'active-encodings' in schema 'org.mate.terminal.global': 1-2:unknown keyword
+
+(mate-terminal:2812): GLib-GIO-WARNING **: 10:19:01.826: Using untranslated default instead.
+
+(mate-terminal:2892): GLib-GIO-WARNING **: 10:19:34.185: Failed to parse translated string 'Terminal' for key 'title' in schema 'org.mate.terminal.profile': 0-1:unknown keyword
+
+(mate-terminal:2892): GLib-GIO-WARNING **: 10:19:34.186: Using untranslated default instead.
+
+(mate-terminal:2892): GLib-GIO-WARNING **: 10:19:34.186: Failed to parse translated string '[UTF-8,current,ISO-8859-15,ISO-8859-1]' for key 'active-encodings' in schema 'org.mate.terminal.global': 1-2:unknown keyword
+
+(mate-terminal:2892): GLib-GIO-WARNING **: 10:19:34.186: Using untranslated default instead.
+
+(mate-terminal:2892): GLib-GIO-WARNING **: 10:19:34.336: Failed to parse translated string '[UTF-8,current,ISO-8859-15,ISO-8859-1]' for key 'active-encodings' in schema 'org.mate.terminal.global': 1-2:unknown keyword
+
+(mate-terminal:2892): GLib-GIO-WARNING **: 10:19:34.336: Using untranslated default instead.
+
+(mate-terminal:2892): GLib-GIO-WARNING **: 10:19:34.340: Failed to parse translated string '[UTF-8,current,ISO-8859-15,ISO-8859-1]' for key 'active-encodings' in schema 'org.mate.terminal.global': 1-2:unknown keyword
+
+(mate-terminal:2892): GLib-GIO-WARNING **: 10:19:34.340: Using untranslated default instead.
+
+(mate-terminal:2892): GLib-GIO-WARNING **: 10:19:34.343: Failed to parse translated string '[UTF-8,current,ISO-8859-15,ISO-8859-1]' for key 'active-encodings' in schema 'org.mate.terminal.global': 1-2:unknown keyword
+
+(mate-terminal:2892): GLib-GIO-WARNING **: 10:19:34.343: Using untranslated default instead.
+
+(mate-terminal:2892): GLib-GIO-WARNING **: 10:19:34.343: Failed to parse translated string '[UTF-8,current,ISO-8859-15,ISO-8859-1]' for key 'active-encodings' in schema 'org.mate.terminal.global': 1-2:unknown keyword
+
+(mate-terminal:2892): GLib-GIO-WARNING **: 10:19:34.343: Using untranslated default instead.
+
+(mate-terminal:2892): GLib-GIO-WARNING **: 10:19:34.344: Failed to parse translated string '[UTF-8,current,ISO-8859-15,ISO-8859-1]' for key 'active-encodings' in schema 'org.mate.terminal.global': 1-2:unknown keyword
+
+(mate-terminal:2892): GLib-GIO-WARNING **: 10:19:34.344: Using untranslated default instead.
+
+(mate-terminal:2892): GLib-GIO-WARNING **: 10:19:34.344: Failed to parse translated string '[UTF-8,current,ISO-8859-15,ISO-8859-1]' for key 'active-encodings' in schema 'org.mate.terminal.global': 1-2:unknown keyword
+
+(mate-terminal:2892): GLib-GIO-WARNING **: 10:19:34.344: Using untranslated default instead.
+
+(nm-applet:2098): Gtk-CRITICAL **: 10:20:48.777: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:2098): Gtk-CRITICAL **: 10:20:48.780: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:2098): Gtk-WARNING **: 10:20:48.792: Can't set a parent on widget which has a parent
+Gtk-Message: 10:21:23.377: GtkDialog mapped without a transient parent. This is discouraged.
+
+(caja:1831): Gtk-CRITICAL **: 10:21:34.709: gtk_container_foreach: assertion 'GTK_IS_CONTAINER (container)' failed
+
+(caja:1831): Gtk-CRITICAL **: 10:21:34.709: gtk_container_foreach: assertion 'GTK_IS_CONTAINER (container)' failed
+
+(caja:1831): Gtk-CRITICAL **: 10:21:34.710: gtk_container_foreach: assertion 'GTK_IS_CONTAINER (container)' failed
+
+(caja:1831): Gtk-CRITICAL **: 10:21:34.710: gtk_container_foreach: assertion 'GTK_IS_CONTAINER (container)' failed
+
+(caja:1831): Gtk-CRITICAL **: 10:21:34.710: gtk_container_foreach: assertion 'GTK_IS_CONTAINER (container)' failed
+
+(caja:1831): Gtk-CRITICAL **: 10:21:34.710: gtk_container_foreach: assertion 'GTK_IS_CONTAINER (container)' failed
+Avertissement du gestionnaire de fenêtres : Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x1c00018 (mintMenu.p)
+Avertissement du gestionnaire de fenêtres : meta_window_activate called by a pager with a 0 timestamp; the pager needs to be fixed.
+
+(mate-terminal:3262): GLib-GIO-WARNING **: 10:22:15.329: Failed to parse translated string 'Terminal' for key 'title' in schema 'org.mate.terminal.profile': 0-1:unknown keyword
+
+(mate-terminal:3262): GLib-GIO-WARNING **: 10:22:15.329: Using untranslated default instead.
+
+(mate-terminal:3262): GLib-GIO-WARNING **: 10:22:15.330: Failed to parse translated string '[UTF-8,current,ISO-8859-15,ISO-8859-1]' for key 'active-encodings' in schema 'org.mate.terminal.global': 1-2:unknown keyword
+
+(mate-terminal:3262): GLib-GIO-WARNING **: 10:22:15.330: Using untranslated default instead.
+
+(nm-applet:2098): Gtk-CRITICAL **: 10:40:30.874: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:2098): Gtk-CRITICAL **: 10:40:30.875: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:2098): Gtk-WARNING **: 10:40:30.876: Can't set a parent on widget which has a parent
+
+(nm-applet:2098): Gtk-CRITICAL **: 10:50:48.601: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:2098): Gtk-CRITICAL **: 10:50:48.605: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:2098): Gtk-WARNING **: 10:50:48.622: Can't set a parent on widget which has a parent
+
+(nm-applet:2098): Gtk-CRITICAL **: 11:05:28.704: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:2098): Gtk-CRITICAL **: 11:05:28.710: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:2098): Gtk-WARNING **: 11:05:28.717: Can't set a parent on widget which has a parent
+
+(mate-screensaver:2099): GLib-CRITICAL **: 11:09:05.776: Source ID 32 was not found when attempting to remove it
+
+(nm-applet:2098): Gtk-CRITICAL **: 11:10:48.870: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:2098): Gtk-CRITICAL **: 11:10:48.870: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:2098): Gtk-WARNING **: 11:10:48.871: Can't set a parent on widget which has a parent
+
+(nm-applet:2098): Gtk-CRITICAL **: 11:15:28.603: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:2098): Gtk-CRITICAL **: 11:15:28.603: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:2098): Gtk-WARNING **: 11:15:28.609: Can't set a parent on widget which has a parent
+
+(mate-terminal:6423): GLib-GIO-WARNING **: 11:19:26.095: Failed to parse translated string 'Terminal' for key 'title' in schema 'org.mate.terminal.profile': 0-1:unknown keyword
+
+(mate-terminal:6423): GLib-GIO-WARNING **: 11:19:26.096: Using untranslated default instead.
+
+(mate-terminal:6423): GLib-GIO-WARNING **: 11:19:26.096: Failed to parse translated string '[UTF-8,current,ISO-8859-15,ISO-8859-1]' for key 'active-encodings' in schema 'org.mate.terminal.global': 1-2:unknown keyword
+
+(mate-terminal:6423): GLib-GIO-WARNING **: 11:19:26.096: Using untranslated default instead.
+
+(nm-applet:2098): Gtk-CRITICAL **: 11:35:50.564: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:2098): Gtk-CRITICAL **: 11:35:50.564: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:2098): Gtk-WARNING **: 11:35:50.586: Can't set a parent on widget which has a parent
+
+(nm-applet:2098): Gtk-CRITICAL **: 11:40:39.331: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:2098): Gtk-CRITICAL **: 11:40:39.332: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:2098): Gtk-WARNING **: 11:40:39.332: Can't set a parent on widget which has a parent
+
+(mate-screensaver:2099): GLib-CRITICAL **: 11:45:44.796: Source ID 345 was not found when attempting to remove it
+
+(nm-applet:2098): Gtk-CRITICAL **: 11:45:50.791: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:2098): Gtk-CRITICAL **: 11:45:50.791: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:2098): Gtk-WARNING **: 11:45:50.792: Can't set a parent on widget which has a parent
+
+(nm-applet:2098): Gtk-CRITICAL **: 11:50:30.661: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:2098): Gtk-CRITICAL **: 11:50:30.662: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:2098): Gtk-WARNING **: 11:50:30.664: Can't set a parent on widget which has a parent
+
+(nm-applet:2098): Gtk-CRITICAL **: 11:55:58.983: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:2098): Gtk-CRITICAL **: 11:55:58.994: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:2098): Gtk-WARNING **: 11:55:58.996: Can't set a parent on widget which has a parent
+
+(nm-applet:2098): Gtk-CRITICAL **: 12:00:35.972: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:2098): Gtk-CRITICAL **: 12:00:35.973: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:2098): Gtk-WARNING **: 12:00:35.991: Can't set a parent on widget which has a parent
+
+(nm-applet:2098): Gtk-CRITICAL **: 12:05:51.385: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:2098): Gtk-CRITICAL **: 12:05:51.386: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:2098): Gtk-WARNING **: 12:05:51.393: Can't set a parent on widget which has a parent
+
+(nm-applet:2098): Gtk-CRITICAL **: 12:10:31.017: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:2098): Gtk-CRITICAL **: 12:10:31.017: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:2098): Gtk-WARNING **: 12:10:31.018: Can't set a parent on widget which has a parent
+
+(nm-applet:2098): Gtk-CRITICAL **: 12:15:59.550: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:2098): Gtk-CRITICAL **: 12:15:59.569: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:2098): Gtk-WARNING **: 12:15:59.572: Can't set a parent on widget which has a parent
+
+(nm-applet:2098): Gtk-CRITICAL **: 12:20:31.028: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:2098): Gtk-CRITICAL **: 12:20:31.029: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:2098): Gtk-WARNING **: 12:20:31.030: Can't set a parent on widget which has a parent
+
+(nm-applet:2098): Gtk-CRITICAL **: 12:35:51.853: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:2098): Gtk-CRITICAL **: 12:35:51.854: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:2098): Gtk-WARNING **: 12:35:51.856: Can't set a parent on widget which has a parent
+
+(nm-applet:2098): Gtk-CRITICAL **: 12:55:43.403: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:2098): Gtk-CRITICAL **: 12:55:43.403: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:2098): Gtk-WARNING **: 12:55:43.405: Can't set a parent on widget which has a parent
