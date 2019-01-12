@@ -166,3 +166,9 @@ Avertissement du gestionnaire de fenêtres : Log level 16: XPresent is not comp
 (firefox:7820): Gtk-WARNING **: 14:36:42.043: Theme parsing error: <data>:1:34: Expected ')' in color definition
 
 (firefox:7820): Gtk-WARNING **: 14:36:42.044: Theme parsing error: <data>:1:78: Expected ')' in color definition
+
+(nm-applet:1790): Gtk-CRITICAL **: 14:47:43.878: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1790): Gtk-CRITICAL **: 14:47:43.879: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1790): Gtk-WARNING **: 14:47:43.881: Can't set a parent on widget which has a parent
