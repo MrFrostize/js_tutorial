@@ -17,4 +17,18 @@
       </metadata>
     </info>
   </bookmark>
+  <bookmark href="file:///home/douma/js_tutorial/index.html" added="2019-01-12T13:29:05Z" modified="2019-01-12T13:36:41Z" visited="2019-01-12T13:29:05Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:groups>
+          <bookmark:group>xed</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Caja" exec="&apos;firefox %u&apos;" modified="2019-01-12T13:36:41Z" count="5"/>
+          <bookmark:application name="xed" exec="&apos;xed %u&apos;" modified="2019-01-12T13:36:31Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
 </xbel>
