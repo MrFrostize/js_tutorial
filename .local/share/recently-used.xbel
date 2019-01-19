@@ -17,16 +17,16 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/douma/js_tutorial/index.html" added="2019-01-12T13:29:05Z" modified="2019-01-12T13:36:41Z" visited="2019-01-12T13:29:05Z">
+  <bookmark href="file:///home/douma/js_tutorial/index.html" added="2019-01-12T13:29:05Z" modified="2019-01-19T12:43:28Z" visited="2019-01-12T13:29:05Z">
     <info>
       <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="text/html"/>
+        <mime:mime-type type="text/plain"/>
         <bookmark:groups>
           <bookmark:group>xed</bookmark:group>
         </bookmark:groups>
         <bookmark:applications>
-          <bookmark:application name="Caja" exec="&apos;firefox %u&apos;" modified="2019-01-12T13:36:41Z" count="5"/>
-          <bookmark:application name="xed" exec="&apos;xed %u&apos;" modified="2019-01-12T13:36:31Z" count="6"/>
+          <bookmark:application name="Caja" exec="&apos;xed %U&apos;" modified="2019-01-19T12:43:25Z" count="8"/>
+          <bookmark:application name="xed" exec="&apos;xed %u&apos;" modified="2019-01-19T12:43:28Z" count="7"/>
         </bookmark:applications>
       </metadata>
     </info>

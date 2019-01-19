@@ -59,3 +59,69 @@ Avertissement du gestionnaire de fenêtres : Log level 16: XPresent is not comp
 (mate-terminal:2043): GLib-GIO-WARNING **: 13:20:13.938: Failed to parse translated string '[UTF-8,current,ISO-8859-15,ISO-8859-1]' for key 'active-encodings' in schema 'org.mate.terminal.global': 1-2:unknown keyword
 
 (mate-terminal:2043): GLib-GIO-WARNING **: 13:20:13.938: Using untranslated default instead.
+
+(nm-applet:1960): Gtk-CRITICAL **: 13:29:55.766: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1960): Gtk-CRITICAL **: 13:29:55.767: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1960): Gtk-WARNING **: 13:29:55.777: Can't set a parent on widget which has a parent
+
+(firefox:4064): Gtk-WARNING **: 13:40:20.012: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:4064): Gtk-WARNING **: 13:40:20.013: Theme parsing error: <data>:1:78: Expected ')' in color definition
+
+(firefox:4390): Gtk-WARNING **: 13:43:16.713: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:4390): Gtk-WARNING **: 13:43:16.713: Theme parsing error: <data>:1:78: Expected ')' in color definition
+
+(xed:4536): Gdk-CRITICAL **: 13:43:28.051: gdk_window_get_window_type: assertion 'GDK_IS_WINDOW (window)' failed
+
+(xed:4536): Gtk-CRITICAL **: 13:43:32.253: _gtk_widget_captured_event: assertion 'WIDGET_REALIZED_FOR_EVENT (widget, event)' failed
+
+(xed:4536): Gtk-CRITICAL **: 13:43:32.254: _gtk_widget_captured_event: assertion 'WIDGET_REALIZED_FOR_EVENT (widget, event)' failed
+
+(xed:4536): Gtk-CRITICAL **: 13:43:32.255: _gtk_widget_captured_event: assertion 'WIDGET_REALIZED_FOR_EVENT (widget, event)' failed
+
+(xed:4536): Gtk-CRITICAL **: 13:43:32.255: _gtk_widget_captured_event: assertion 'WIDGET_REALIZED_FOR_EVENT (widget, event)' failed
+
+(xed:4536): Gtk-CRITICAL **: 13:43:32.262: _gtk_widget_captured_event: assertion 'WIDGET_REALIZED_FOR_EVENT (widget, event)' failed
+
+(xed:4536): Gtk-CRITICAL **: 13:43:32.262: _gtk_widget_captured_event: assertion 'WIDGET_REALIZED_FOR_EVENT (widget, event)' failed
+
+(xed:4536): Gtk-CRITICAL **: 13:43:50.476: _gtk_widget_captured_event: assertion 'WIDGET_REALIZED_FOR_EVENT (widget, event)' failed
+
+(xed:4536): Gtk-CRITICAL **: 13:43:50.477: _gtk_widget_captured_event: assertion 'WIDGET_REALIZED_FOR_EVENT (widget, event)' failed
+
+(xed:4536): Gtk-CRITICAL **: 13:43:50.477: _gtk_widget_captured_event: assertion 'WIDGET_REALIZED_FOR_EVENT (widget, event)' failed
+
+(xed:4536): Gtk-CRITICAL **: 13:43:50.477: _gtk_widget_captured_event: assertion 'WIDGET_REALIZED_FOR_EVENT (widget, event)' failed
+
+(xed:4536): Gtk-CRITICAL **: 13:43:50.477: _gtk_widget_captured_event: assertion 'WIDGET_REALIZED_FOR_EVENT (widget, event)' failed
+
+(xed:4536): Gtk-CRITICAL **: 13:43:50.481: _gtk_widget_captured_event: assertion 'WIDGET_REALIZED_FOR_EVENT (widget, event)' failed
+
+(xed:4536): Gtk-CRITICAL **: 13:43:50.481: _gtk_widget_captured_event: assertion 'WIDGET_REALIZED_FOR_EVENT (widget, event)' failed
+
+(nm-applet:1960): Gtk-CRITICAL **: 13:44:35.407: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1960): Gtk-CRITICAL **: 13:44:35.407: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1960): Gtk-WARNING **: 13:44:35.415: Can't set a parent on widget which has a parent
+
+(caja:1869): Gtk-CRITICAL **: 13:48:07.691: gtk_container_foreach: assertion 'GTK_IS_CONTAINER (container)' failed
+
+(caja:1869): Gtk-CRITICAL **: 13:48:07.692: gtk_container_foreach: assertion 'GTK_IS_CONTAINER (container)' failed
+
+(caja:1869): Gtk-CRITICAL **: 13:48:07.692: gtk_container_foreach: assertion 'GTK_IS_CONTAINER (container)' failed
+
+(caja:1869): Gtk-CRITICAL **: 13:48:07.692: gtk_container_foreach: assertion 'GTK_IS_CONTAINER (container)' failed
+
+(caja:1869): Gtk-CRITICAL **: 13:48:07.692: gtk_container_foreach: assertion 'GTK_IS_CONTAINER (container)' failed
+
+(caja:1869): Gtk-CRITICAL **: 13:48:07.692: gtk_container_foreach: assertion 'GTK_IS_CONTAINER (container)' failed
+
+(nm-applet:1960): Gtk-CRITICAL **: 13:49:55.771: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1960): Gtk-CRITICAL **: 13:49:55.771: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1960): Gtk-WARNING **: 13:49:55.773: Can't set a parent on widget which has a parent
